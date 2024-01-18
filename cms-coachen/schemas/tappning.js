@@ -1,7 +1,7 @@
 // schemas/text1.js
 export default {
-    name: 'text1',
-    title: 'Text 1',
+    name: 'Tappning',
+    title: 'Tappnings terapi',
     type: 'document',
     fields: [
       {
@@ -16,4 +16,3 @@ export default {
       },
     ],
   };
-  

@@ -1,5 +1,5 @@
 {
-  "name": "separation-cms",
+  "name": "cms-coachen",
   "private": true,
   "version": "1.0.0",
   "main": "package.json",
@@ -15,12 +15,12 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/cli": "^3.24.1",
-    "@sanity/vision": "^3.24.1",
+    "@sanity/client": "^6.11.1",
+    "@sanity/vision": "^3.25.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-is": "^18.2.0",
-    "sanity": "^3.24.1",
+    "sanity": "^3.25.0",
     "styled-components": "^6.0.7"
   },
   "devDependencies": {

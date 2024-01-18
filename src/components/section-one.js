@@ -1,0 +1,1 @@
+//här ska sen bild och text inporteras efter att detfetchas i andra componenter

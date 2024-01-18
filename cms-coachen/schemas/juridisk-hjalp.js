@@ -1,7 +1,7 @@
-// schemas/text3.js
+// schemas/text1.js
 export default {
-    name: 'text3',
-    title: 'Text 3',
+    name: 'JuridiskHjalp',
+    title: 'Juridisk hjälp',
     type: 'document',
     fields: [
       {
@@ -16,4 +16,3 @@ export default {
       },
     ],
   };
-  

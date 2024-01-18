@@ -1,0 +1,1 @@
+// Fetch första bilden från API:et

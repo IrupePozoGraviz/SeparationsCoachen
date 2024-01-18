@@ -1,7 +1,7 @@
 // schemas/text1.js
 export default {
-    name: 'text4',
-    title: 'Text 4',
+    name: 'Ommig',
+    title: 'Ommig',
     type: 'document',
     fields: [
       {
@@ -16,4 +16,3 @@ export default {
       },
     ],
   };
-  

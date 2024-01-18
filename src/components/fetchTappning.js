@@ -1,0 +1,1 @@
+// fetch för tappnings texten från sanity
